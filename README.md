@@ -12,12 +12,22 @@ The objective of this project is to develop a system that simplifies the managem
 ---
 
 ## 🛠 Technologies Used
-- Java
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
+-Java
+
+-Object-Oriented Programming (OOP)
+
+-Java Swing
+
+-Model-View-Controller (MVC)
+
+-File Handling
+
+-GUI Development
+
+-Desktop Application Development
+
+-Software Documentation
+
 
 ---
 
